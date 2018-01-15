@@ -1,0 +1,55 @@
+.person {
+	text-align: center;
+}
+
+.avatar {
+	width: 150px;
+	height: 150px;
+	border-radius: 100%;
+}
+
+.menu-section {
+	padding: 10px;
+	padding-left: 30px;
+}
+
+.menu-line {
+	padding: 10px;	
+}
+
+.big-title {
+	font-size: 24px;
+}
+
+.label1 {
+
+}
+
+.label2 {
+
+}
+
+.label3 {
+
+}
+
+p {
+	font-size: 18px;
+}
+
+.bigger-ul {
+	font-size: 18px;
+}
+
+.technologies {
+	font-size: 80px;
+}
+
+.solr {
+	margin-top: -20px;
+	height: 50px;
+}
+
+.rabbit {
+	height: 70px;	
+}
